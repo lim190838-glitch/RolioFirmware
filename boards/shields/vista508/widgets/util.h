@@ -8,7 +8,7 @@
 #include <lvgl.h>
 #include <zmk/endpoints.h>
 
-#define CANVAS_SIZE 144
+#define CANVAS_SIZE 128
 
 #define WPM_SAMPLES 20
 
